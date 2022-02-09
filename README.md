@@ -1,4 +1,4 @@
-# Water Demand Classification: Indoors vs. Outdoors
+## Water Demand Classification: Indoors vs. Outdoors
 
 <img src="https://github.com/rodrigocantu/water-demand-classification/blob/main/resources/img/UC-Davis-Logo.png"  width="280" height="84"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/rodrigocantu/water-demand-classification/blob/main/resources/img/tecnologico-de-monterrey-logo.png"  width="315" height="84"> 
 
